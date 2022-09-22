@@ -1,0 +1,18 @@
+
+dependencies:
+  - python=3.10
+  - jupyter
+  - IPython
+  - pandas
+  - numpy
+  - nbconvert
+  - jupyterlab
+  - pip
+  - pip:
+    - plotnine
+    - tqdm
+    - xlrd
+    - matplotlib
+    - scikit-learn
+    - scipy
+    - statsmodels
